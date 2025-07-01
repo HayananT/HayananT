@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Hayanan Thevaranjan</h1>
-<h3 align="center">🚀 ML Developer | ☁️ Cloud Native Engineer | 🤖 AI Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | ☁️ Cloud Native Engineer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Hayanan30">
