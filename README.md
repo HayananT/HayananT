@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Internship%20GitHub%20Profile-%F0%9F%94%97-blue?style=for-the-badge&logo=github" alt="Internship GitHub"/>
   </a>
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=600&lines=Undergraduate+%40+University+of+Peradeniya;AI+%2F+ML+Explorer;Cloud+Native+DevOps+Learner;RAG+%7C+LLMs+%7C+%7C+Kubernetes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=600&lines=Undergraduate+%40+University+of+Peradeniya;AI+%2F+ML+Explorer;Cloud+Native+DevOps+Learner;RAG+%7C+LLMs+%7C+Kubernetes" />
 </p>
 
 ---
