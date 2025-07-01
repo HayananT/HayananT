@@ -22,7 +22,7 @@
 
 ---
 
-## 🔗 Working GitHub Profile
+## 🔗 Intership GitHub Profile
 
 <p align="center">
   👉 <a href="https://github.com/Hayanan30"><strong>https://github.com/Hayanan30</strong></a> 👈  
@@ -33,20 +33,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,flask,fastapi,docker,kubernetes,aws,linux,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,javascript,react,nextjs,nodejs,docker,kubernetes,terraform,aws,bash,git,github,vscode,androidstudio" />
 </p>
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayanan30&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayanan30&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
